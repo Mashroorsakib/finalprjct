@@ -1,0 +1,15 @@
+.first-part{
+    background: url("https://i.ibb.co/LgX7Qzp/Airbnb-Peru-Skylodge.jpg");
+    height: 50vh;
+    position: relative;
+}
+.first-text{
+    background-color: black;
+    color: white;
+    padding-top: 15vh;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 40px;
+    width: 65vh;
+    height: 50vh;
+}

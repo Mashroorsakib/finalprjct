@@ -1,0 +1,13 @@
+.customer-product{
+    display: grid;
+    grid-template-columns: 1fr 10fr;
+    border-bottom:  1px solid black;
+}
+
+.customer-product img{
+    height: 200px;
+    width: 250px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    margin-right: 20px;
+}

@@ -1,0 +1,11 @@
+.rowwise{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    margin-top: 25px;
+}
+
+.ContainerName{
+    color: brown;
+    margin-top: 30px;
+    margin-left: 40%;
+}

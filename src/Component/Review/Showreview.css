@@ -1,0 +1,20 @@
+.review-data{
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    margin-top: 40px;
+    margin-left: 110px;
+    margin-right: 30px;
+    width: 300px;
+    height: auto;
+   
+}
+
+.review-data h1{
+    color: brown;
+    margin-bottom: 15px;
+    align-items: center;
+}
+
+.review-data p{
+    padding-top: 3px;
+    margin-left: 10px;
+}

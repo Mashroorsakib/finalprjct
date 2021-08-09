@@ -1,0 +1,16 @@
+.review-list{
+    display: grid;
+    grid-template-columns: 1.5fr 10.5fr;
+}
+.review-group{
+    margin-top: 50px;
+    width: fit-content;
+}
+
+.review-container{
+    background-image: linear-gradient(40deg, #19d3ae,#0fcfec);
+}
+
+.review-group input{
+    margin-top: 20px;
+}

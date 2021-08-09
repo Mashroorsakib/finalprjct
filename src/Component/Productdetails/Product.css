@@ -1,0 +1,11 @@
+.single-product{
+    display: grid;
+    grid-template-columns: 2fr 6fr;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.single-product img{
+    height: 150px;
+    width: 250px;
+}

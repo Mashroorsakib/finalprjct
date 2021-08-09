@@ -1,0 +1,24 @@
+.navlist li a{
+    text-decoration: none;
+    }
+.navlist ul {
+    list-style-type: none;
+}
+
+.navlist li{
+    margin-bottom: 20px;
+  
+}
+
+.icon{
+    margin-right: 5px;
+}
+
+.navlist{
+    width: fit-content;
+    height: 100%;
+}   
+.ul-list{
+    min-height: 100vh;
+    background-color: burlywood;
+}
